@@ -1,0 +1,39 @@
+(6U Server Rack):
+Name: 6U Wall Mount Server Rack Cabinet
+Brand: TOTEN / DATEUP
+Dimention:600 x 450 x 36 mm
+
+(9U Server Rack):
+Name: 9U Wall Mount Server Rack Cabinet
+Brand: TOTEN / DATEUP
+Dimention:600 x 600 x 501mm
+
+(12U Server Rack):
+Name: 12U Wall Mount Server Rack Cabinet
+Brand: TOTEN / DATEUP
+Dimention:600 x 450 x 635mm
+
+(15U Server Rack):
+Name: 15U Wall Mount Server Rack Cabinet
+Brand: TOTEN / DATEUP
+Dimention:600 x 600 x 769mm
+
+(18U Server Rack):
+Name: 18U Wall Mount Server Rack Cabinet
+Brand: TOTEN / DATEUP
+Dimention:600 x 600 x 860
+
+(22U Server Rack):
+Name: 22U Wall Mount Server Rack Cabinet
+Brand: TOTEN / DATEUP
+Dimention:600 x 800 x 1166mm
+
+(32U Server Rack):
+Name: 32U Wall Mount Server Rack Cabinet
+Brand: TOTEN / DATEUP
+Dimention:600 x 1000 x 1610mm
+
+(42U Server Rack):
+Name: 42U Wall Mount Server Rack Cabinet
+Brand: TOTEN / DATEUP
+Dimention:600 x 1000 x 2055mm

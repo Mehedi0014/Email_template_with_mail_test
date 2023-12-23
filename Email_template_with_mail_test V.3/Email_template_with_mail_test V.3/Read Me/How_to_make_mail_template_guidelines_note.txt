@@ -1,0 +1,150 @@
+HTML emails is that tables are the only things that are universally supported when it comes to email design.
+CSS is written with inline style tags,
+
+
+
+
+Email Container Width:
+Foundation for Emails' default container with around 600px wide. That's because the majority of email clients have a preview pane that is around 550-700 pixels.
+
+
+
+Table tr td vs row column
+The <table> tag wraps the entire table. The <tr> tag denotes a row. The <td> tag is used to wrap a table cell.
+
+
+
+
+Id and Class
+Speaking of CSS, you should only set classes and IDs on tables or <td> tags, not <tr> tags.
+
+
+
+
+Margin and Padding
+Outlook 2007, 2010, and 2013 does not support "padding" in <p>, <div> or <a> tags. Use margin instead.
+Forget about using CSS positioning like top, bottom, relative, absolute.
+margin is universally supported BUT you may see some inconsistencies in Outlook 2007, 2010, and 2013. Padding is safer.
+
+Outlook.com does support margin with a capital "M". Use it like this:
+margin: 10px;
+Margin: 10px;  // fallback for Outlook.com
+
+
+
+
+
+Break
+<br> tags are ok, but you won't get pixel perfect results
+Your best option for vertical spacing is to use the <spacer> component in Foundation for Emails. It works consistently on all email clients and lets you set the height with the size attribute. So <spacer size="32"></spacer> will create 32px of vertical space.
+
+
+
+
+
+Colors:
+It's better to use full 6 digit hex codes colors in HTML emails (#ffffff vs #fff)
+Background colors work across all email clients as well as color for fonts.
+
+
+
+
+
+JavaScript
+Nope. JavaScript is not a reality in most popular emails. It will be blocked for security reasons.
+
+
+
+
+
+Image
+Many email clients block images by default. “Many” being pretty much everybody except Apple Mail/iOS and Gmail.
+So we should Always use an ALT tag.
+
+Outlook and Thunderbird like to show images in their ahem full glory.
+The solution is inline size attributes.
+<img height=“390” width=“580” src=“hero.jpg” alt=“I can be your hero, baby…” />
+Remember to use full paths to images, not relative paths. (e.g. http://www.yourserver.com/email/images/logo.gif).
+link to images from your own server, not anyone elses. If you don't control it you never know when that url will change.
+
+Gif's and Video in Emails
+Animated GIFs have surprisingly good support. Outlook only shows the first frame of the animation.
+
+Video's in emails are not supported except in Apple Mail and Outlook 2011
+
+
+
+
+Images for Buttons
+Images get blocked. So if you have an important CTA image that looks like a button, it will likely get missed. And that defeats the purpose of your email.
+
+
+
+
+
+Email File Size
+Sending an email with a file size between 15KB-100KB is ideal. Some email clients will send the email to spam if the file size is greater.
+Making the HTML file size less than 20kb (20540 characters) - not including images or the plain-text version. 
+This charachter count includes things like inline styles, HTML tags, and spaces, and other HTML entities.
+
+Create emails that are short and to the point. Too many call-to-actions's, topics, or long emails don't tend to work that well anyways.
+Minify your HTML. 
+
+
+
+
+
+Font Size
+Text should never be smaller than 11 pixels.
+Apple suggests 17px for mobile devices and Google recommends up to 21px for body copy.
+So its better to use 16px font-size for email template.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

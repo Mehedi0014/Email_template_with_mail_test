@@ -1,0 +1,60 @@
+1.(Fiber-Optic-ONU Modem):
+Conform to IEEE802.3ah standard.Single ONU supports up to 1 LLID.Support standard 802.1Q Vlan function, support VLAN conversion.traffic shaping and traffic control, etc.
+(Fiber-Patch-Cord):
+High quality zirconia ferrules.High quality nickel-plated die-cast ST nut. UL-V0 flammability rating on polymer materials. 100% insertion loss tested
+
+2.(PoE-Switch):
+• Upgradable PoE budget with interchangeable power supplies
+• Small form factor and silent for quiet operation
+• Plug-and-play, automatic connectivity to your router or modem
+• Prioritize voice and video traffi
+
+3.(Systimax-Cat6A-Cable):
+•Certified component
+• Termination managers and IDC housing allow traditional cable
+termination to high performance panel
+• Available in 24- and 48-port configurations featuring universal A/B
+labeling
+• Qualified
+
+4.(VIVANCO-Cat6-Cable):
+? Fast Feed Reelex Packaging
+? Category 6 Compliant TIA/EIA 568-C.2-1, EN50173-1 • ISO/IEC 11801
+? Operating Frequency 250MHz
+? EC Verified
+? Zero halogen, no corrosive gases IEC 60754-1(LSZH)
+? Flame propagation IEC 60332-1(LSZH)
+?Smoke density IEC 61034-1(LSZH)
+
+5.(Wireless-Router):
+? High-speed, standards-based 802.11n wireless connectivity with fast throughput and broad coverage
+allows people to remain productive while away from their desks
+? Integrated 4-port 10/100 switch easily connects computers, printers, IP phones, cameras, and other
+devices to your network
+? Proven firewall with access rules and advanced wireless security keeps your business assets safe from
+predators
+? Quality of service (QoS) support prioritizes voice, video, and data traffic to keep your business moving 
+
+6.(CISCO-Switch):
+Get highly secure, scalable performance and intuitive management with aggregation-layer switches.
+Cisco's fixed and modular, core, distribution, and access LAN switches have been designed for a new era of intent-based networking
+
+7.(Access-Point):
+Wi-Fi 6 certifiable
+Four radios: 5 GHz (4x4) Flexible radio with 2.4 or 5 GHz (4x4), Unified RF Engine, and IoT ready (BLE, Zigbee, 
+Thread and other multiprotocol 802.15.4 devices)
+OFDMA and MU-MIMO
+Multigigabit support
+Internal, external antenna and also external antenna for professional installations
+
+
+8. (Fiber Patch Cord):
+High performance and superior durability
+ PC radius ferrule tip  Low back reflection and insertion loss
+ 100% insertion loss tested  Verified optical performance
+ Low mated pair insertion loss  Minimum impact on signal budget
+ High quality nickel-plated die-cast ST nut  Corrosion resistance
+ Precision engineered plastic SC housings  Consistently repeatable mating
+ Wide temperature operating range  Environmental stability
+
+
